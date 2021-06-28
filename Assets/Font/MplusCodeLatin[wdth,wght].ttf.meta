@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1edd0f914c7ef4fcab42a6af78df975f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mplus Code Latin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32aa6114e4fad46e4b3713d0d6d81a66, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
